@@ -1,0 +1,66 @@
+table {
+  width: 50%;
+  border-collapse: collapse;
+}
+
+th, td {
+  padding: 8px;
+  text-align: left;
+}
+
+th {
+  background-color: #f4f4f4;
+}
+
+body{
+  background-image:url("mcso_squad.jpg");
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+}
+
+h2, h3 {
+  color: orange;
+}
+
+.hidden {
+  display: none;
+}
+
+.orange {
+  background-color: orange; /* You can change this to any color */
+}
+
+.skyblue {
+  background-color: lightskyblue; /* You can change this to any color */
+}
+
+.green {
+  background-color: lightgreen; /* You can change this to any color */
+}
+
+.blue {
+  background-color: lightblue; /* You can change this to any color */
+}
+
+.gray {
+  background-color: lightgray; /* You can change this to any color */
+}
+
+.grey {
+  background-color: lightgrey; /* You can change this to any color */
+}
+
+.boro {
+  background-color: gainsboro; /* You can change this to any color */
+}
+
+.fuchsia {
+  background-color: fuchsia; /* You can change this to any color */
+}
+
+.pink {
+  background-color: hotpink; /* You can change this to any color */
+}
+
+
